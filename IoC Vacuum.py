@@ -52,7 +52,5 @@ text_entry.pack()
 button = tk.Button(root, text="\u2605 Extract IoCs \u2605", command=button_click, fg="black", bg="red")
 button.pack()
 
-root.iconbitmap('e:\\Projects\\vacuum.ico')
-
 # Start the main loop
 root.mainloop()
